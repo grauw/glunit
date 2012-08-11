@@ -1,0 +1,19 @@
+{
+	"name": "gltest",
+	"version": "0.1.0",
+	"author": "Laurens Holst",
+	"description": "A JavaScript unit test library.",
+	"license": "Apache 2.0",
+	"keywords": [
+		"javascript",
+		"unit",
+		"test"
+	],
+	"repository": {
+		"type": "mercurial",
+		"url": "https://bitbucket.org/grauw/glunit"
+	},
+	"scripts": {
+		"test": "node testrunner.js"
+	}
+}
