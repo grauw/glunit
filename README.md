@@ -1,7 +1,7 @@
 gltest
 ======
 
-A no-nonsense object oriented JavaScript unit test library.
+No-nonsense object oriented JavaScript unit testing.
 
 This library provides you with simple and unbloated yet powerful test classes.
 They can easily be extended with domain-specific test functionality.

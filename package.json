@@ -2,7 +2,7 @@
 	"name": "glunit",
 	"version": "0.1.0",
 	"author": "Laurens Holst",
-	"description": "A no-nonsense object oriented JavaScript unit test library.",
+	"description": "No-nonsense object oriented JavaScript unit testing.",
 	"license": "Apache 2.0",
 	"keywords": [
 		"javascript",
