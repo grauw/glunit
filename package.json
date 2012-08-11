@@ -5,9 +5,10 @@
 	"description": "No-nonsense object oriented JavaScript unit testing.",
 	"license": "Apache 2.0",
 	"keywords": [
-		"javascript",
 		"unit",
-		"test"
+		"test",
+		"testing",
+		"tdd"
 	],
 	"repository": {
 		"type": "mercurial",
