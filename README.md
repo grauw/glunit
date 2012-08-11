@@ -3,9 +3,8 @@ gltest
 
 No-nonsense object oriented JavaScript unit test library.
 
-This library provides you with no-nonsense test classes, which are simple and
-unbloated yet powerful. They can easily be extended with domain-specific test
-functionality.
+This library provides you with simple and unbloated yet powerful test classes.
+They can easily be extended with domain-specific test functionality.
 
 Usage
 -----
