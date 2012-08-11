@@ -54,8 +54,8 @@ Now all tests instantiated as MyTest will have a prepare() method they can
 invoke to do common set-up, and an assertIsHTMLElement() method to check if an
 XML node is an HTML element.
 
-You don’t even need to specify a test function at all; here is an example using
-a Test subclass for testing an URI resolving library:
+It can also be useful to implement a shared test function; for example, this is
+how a Test subclass is used to test an URI resolving library:
 
     new URITest('http://a/b/c/d;p?q', 'g?y'    , 'http://a/b/c/g?y'),
     new URITest('http://a/b/c/d;p?q', '..'     , 'http://a/b/'),
