@@ -32,10 +32,8 @@ Available assertions are:
   * assertType(typeStringOrConstructor, object)
 
 The amount of assertions is intentionally kept small. If you need additional
-assertions for convenience and brevity you can easily subclass Test with your
-own special-purpose assertions.
-
-If you have common code between tests, you can subclass Test to easily share it:
+assertions for convenience and brevity, or have other common code between tests,
+you can easily subclass Test with your own extension methods:
 
     function MyTest() {
         Test.apply(this, arguments);
