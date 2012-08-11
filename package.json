@@ -1,5 +1,5 @@
 {
-	"name": "gltest",
+	"name": "glunit",
 	"version": "0.1.0",
 	"author": "Laurens Holst",
 	"description": "A JavaScript unit test library.",
