@@ -1,4 +1,4 @@
-gltest
+glunit
 ======
 
 No-nonsense object oriented JavaScript unit testing.
@@ -82,17 +82,17 @@ This way you can represent your repetitive tests in a compact and readable way.
 Developer information
 ---------------------
 
-If you would like to do some hacking on gltest, clone the source code into your
-development environment using [Mercurial][1]:
+If you would like to do some hacking on glunit, clone the source code into your
+development environment using [Git][1]:
 
-    hg clone https://bitbucket.org/grauw/gltest
+    git clone https://github.com/grauw/glunit.git
 
 To contribute, [contact me][2] with a link to a repository with your changes and
 a description. Please adhere to the existing code style, and make small commits
 with good commit messages. If you like, send in your changes for review early,
 so we can discuss them and agree on their direction.
 
-[1]: http://mercurial.selenic.com/
+[1]: https://git-scm.com/
 [2]: http://www.grauw.nl/about.php
 
 Authors
@@ -103,7 +103,7 @@ Authors
 Source code
 -----------
 
-<https://bitbucket.org/grauw/gltest>
+<https://github.com/grauw/glunit>
 
 License
 -------

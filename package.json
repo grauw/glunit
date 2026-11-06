@@ -11,8 +11,8 @@
 		"tdd"
 	],
 	"repository": {
-		"type": "mercurial",
-		"url": "https://bitbucket.org/grauw/glunit"
+		"type": "git",
+		"url": "git+https://github.com/grauw/glunit.git"
 	},
 	"scripts": {
 		"test": "node testrunner.js"
